@@ -1,0 +1,6 @@
+@Flowganized_HostAddress = http://localhost:5260
+
+GET {{Flowganized_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
